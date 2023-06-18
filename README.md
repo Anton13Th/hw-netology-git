@@ -12,7 +12,11 @@ Nagornov A.A. HW GIT for Netology
 
 1. ![Commit-2](https://github.com/Anton13Th/hw-netology-git/commit/979836ddf06679ca4f888ec0cc02607d48b87800)
 
+### Задание 3
 
+1. ![Graph](https://github.com/Anton13Th/hw-netology-git/network)
+
+---
 
 
 
